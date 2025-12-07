@@ -39,6 +39,7 @@ M4 for dual wield blocking
 DEL for STB Widgets menu  
 END for ENB menu  
 F11 for Hotkey Reminder  
+C to inspect items
 
 **Important notes:**  
 - <s>Gamepad++ has been bundled with the list, but I do not use controller and have not configured it. I am happy to use anyone's custom setup that they get working for it if they want to provide one that they've tested, otherwise</s> Gamepad++ has been removed. I have tested controller with the vanilla control scheme and it works: LB works as the dodge key when tapped, sprint key when held down and moving, and the activator button for Dynamic Activation Key.   
