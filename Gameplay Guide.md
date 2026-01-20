@@ -162,7 +162,10 @@ Ingredients will be restored to your inventory when crafting or when in a safe l
 
 Please remember: ingredients that are auto-stored will need to be manually retrieved if needing them for a quest, like in the Lost Echo Cave, where a glowing mushroom is needed. You will need to retrieve a mushroom from your stored ingredients to actually have one on hand for the quest.  
 
-      
+### Controller Support  
+
+The list uses [Modern Controlmap](https://www.nexusmods.com/skyrimspecialedition/mods/89649) to set the controller mapping. I have not changed the default values, though the "Controller Support" separator has also set a [Dual Wield Parrying SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/85505) blocking hotkey to X by default (Square for PS controllers). If you wish to change these values, edit the inis in the appropriate folders- both mods have the scan codes needed to re-map the controls in their Posts tab.  
+
 
 ## Troubleshooting:  
 

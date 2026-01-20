@@ -5,7 +5,8 @@ Welcome to the ElderTeej Wabbajack list!
 <img width="1255" height="739" alt="ElderTeejmain" src="https://github.com/user-attachments/assets/e4638bff-3f88-4279-997b-2913deb41212" />
 
 
-What started as a fork of another popular modlist has become my own work, taking my tweaked combat, every supported quest or item with a display in the Legacy of the Dragonborn museum, and plenty of visual goodness! Also includes some QoL tweaks, vanilla skill leveling with Experience on top, and some old favorites like Mysticism, Ordinator, and my implementation of what I'm dubbing The Great Cities of JK's Northern Roads.  
+What started as a fork of another popular modlist has become my own work, taking my tweaked combat, every supported quest or item with a display in the Legacy of the Dragonborn museum, and plenty of visual goodness! Also includes some QoL tweaks, vanilla skill leveling with Experience on top, and some old favorites like Mysticism and Vokord, and my choices in PBR textures now that we've moved the list to Community Shaders!
+
 
 **Some highlights:**  
 Witchy Wilderness  
@@ -19,7 +20,7 @@ And SO much more! Check out the [full load order here](https://loadorderlibrary.
 **Requirements:**  
 This list requires Skyrim Special Edition with all Anniversary Edition content installed, as well as needing Creation Kit.  
 
-As far as technical requirements: I recommend at least 32 GB of RAM for modded Skyrim, and running the list at 1440 generally pulls 9-10 GB of VRAM, so a 4070 or higher is recommended for 1440. My current build gets occasional lag spikes and I have a Ryzen 9 5900x and a 4070 Super. Unfortunately, JK's Skyrim is heavy and I can't do much to alleviate that draw, but I have included VRAMr to knock down the performance hit as much as possible while maintaining visual fidelity if you need to run it. You will also need to set a 40 GB page file, as is delineated below.    
+As far as technical requirements: I recommend at least 32 GB of RAM for modded Skyrim, and running the list at 1440 generally pulls 6-8 GB of VRAM, so a 4070 or higher is recommended for 1440. The CS switch has really freed performance headroom up, but this is still a heavily overhauled world and you may need to enable Upscaling and use some of its frame generation options if you have a lower-end PC.  
 
 **Pre-install:**  
 - Ensure your Skyrim install is clean and up to date. This generally means deleting all vanilla Skyrim files and reinstalling through the "verify game files" option in Steam. Ensure you do this for Creation Kit as well.    
@@ -37,17 +38,17 @@ G to toggle helmet
 H to call horse  
 M4 for dual wield blocking  
 DEL for STB Widgets menu  
-END for ENB menu  
+END for Community Shaders menu  
+PGDN for Modex  
 F11 for Hotkey Reminder  
 C to inspect items
 
 **Important notes:**  
-- <s>Gamepad++ has been bundled with the list, but I do not use controller and have not configured it. I am happy to use anyone's custom setup that they get working for it if they want to provide one that they've tested, otherwise</s> Gamepad++ has been removed. I have tested controller with the vanilla control scheme and it works: LB works as the dodge key when tapped, sprint key when held down and moving, and the activator button for Dynamic Activation Key.   
-- Ultrawide options have been included but not extensively tested. I don't own a monitor to test ultrawide on, so this is not currently something I can provide secondary support for.  
+- Upscaling for Community Shaders is included in the list, feel free to deactivate it if you do not want it running or experience ghosting/artifacting.  
+- There is controller support through Modern Controlmap but will require some setup/config. Please see the gameplay guide for recommendations and instructions. 
 
-**Known bugs:**  
-- <s>On start up, opening presets or naming your character before all scripts initialize can cause your character to die and get a "Dialogue Quest Failed to Start" pop up. Close the game and re-open, start a new character, and wait a bit.</s> This appears to have been resolved through the removal of an offending mod; however, I will leave it listed, just in case.  
-
+**Known issues:**  
+- For some reason, the UI will occasionally freeze or have elements disappear. A restart will fix this temporarily, but a permanent cause/solution has yet to be determined.  
 
 **Discord:**
 [https://discord.gg/r4YnyqGBBA](https://discord.gg/r4YnyqGBBA)

@@ -5,7 +5,7 @@
 
 
 
-This list is an attempt to build for Fallout 4 what NGVO did for Skyrim – provide a beautiful, stable list to serve as either a fun, almost entirely vanilla gameplay-wise Fallout 4 experience or to add your own quest and content mods to!
+This list is an attempt to build for Fallout 4 what NGVO did for Skyrim – a beautiful, stable list to serve as either a fun, almost entirely vanilla gameplay-wise Fallout 4 experience or to add your own quest and content mods to!
 
 
 **A couple of highlights:**  

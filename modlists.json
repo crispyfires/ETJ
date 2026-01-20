@@ -1,7 +1,7 @@
 [
   {
     "title": "ElderTeej",
-    "description": "BFCO combat, every official LOTD display on Nexus, Ordinator perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You\u0027re the Dragonborn, kick some butt and fill that museum!",
+    "description": "BFCO combat, every official LOTD display on Nexus, Vokord perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You\u0027re the Dragonborn, kick some butt and fill that museum!",
     "author": "tpartridge89",
     "maintainers": [
       "github/tpartridge89"
@@ -16,29 +16,29 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": true,
+    "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ElderTeej16x9.webp",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_2aa269a3-d468-44fc-b22f-cf16662d16d7",
+      "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_89211df5-a725-4a31-ae2a-176b7eaecc79",
       "machineURL": "ElderTeej",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "mTggCS3s0jE=",
-      "Size": 1893287318,
-      "NumberOfArchives": 2595,
-      "SizeOfArchives": 269445170489,
-      "NumberOfInstalledFiles": 428758,
-      "SizeOfInstalledFiles": 442672020763,
-      "TotalSize": 712117191252
+      "Hash": "/G+Iw3nEvJA=",
+      "Size": 3237998704,
+      "NumberOfArchives": 2774,
+      "SizeOfArchives": 300769217440,
+      "NumberOfInstalledFiles": 478963,
+      "SizeOfInstalledFiles": 471011805279,
+      "TotalSize": 771781022719
     },
-    "version": "2.2.5",
+    "version": "3.6.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-10-19T00:24:47.7018635Z",
+    "dateUpdated": "2026-01-19T14:45:26.1225929Z",
     "repositoryName": ""
   },
   {
@@ -56,29 +56,113 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": true,
+    "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/89d0e4e56f2337f37589bc41434d6af372953d00/ABC%20main.png",
       "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/ABeautifulCommonwealthReadme.md",
-      "download": "https://authored-files.wabbajack.org/A Beautiful Commonwealth.wabbajack_c5f264c0-589d-48e6-9f62-15af9df89af5",
+      "download": "https://authored-files.wabbajack.org/A Beautiful Commonwealth.wabbajack_3e382d85-da8c-4925-b341-14b4248955d6",
       "machineURL": "ABC",
       "discordURL": "https://discord.gg/r4YnyqGBBA",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "M8Cbk1b4wzc=",
-      "Size": 5370834846,
-      "NumberOfArchives": 1314,
-      "SizeOfArchives": 122867828619,
-      "NumberOfInstalledFiles": 105983,
-      "SizeOfInstalledFiles": 147341921534,
-      "TotalSize": 270209750153
+      "Hash": "2r17aVUBYZo=",
+      "Size": 516204630,
+      "NumberOfArchives": 1289,
+      "SizeOfArchives": 122404626716,
+      "NumberOfInstalledFiles": 156380,
+      "SizeOfInstalledFiles": 147679935876,
+      "TotalSize": 270084562592
     },
-    "version": "3.0.0",
+    "version": "3.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-07T21:12:44.7197142Z",
+    "dateUpdated": "2025-12-25T03:32:42.4197887Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "A Bountiful Commonwealth",
+    "description": "The ElderTeej philosophy, but applied to Fallout!",
+    "author": "tpartridge89",
+    "maintainers": [
+      "github/tpartridge89"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Total Overhaul",
+      "Steam",
+      "Combat Overhaul",
+      "SFW"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ABouCmain.webp",
+      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/ABeautifulCommonwealthReadme.md",
+      "download": "https://authored-files.wabbajack.org/ABountifulCommonwealth.wabbajack_69401e70-9a86-4593-b0c3-05e81d96798a",
+      "machineURL": "ABouC",
+      "discordURL": "https://discord.gg/r4YnyqGBBA",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "hVE1EaHbRS0=",
+      "Size": 647998699,
+      "NumberOfArchives": 1564,
+      "SizeOfArchives": 201599615515,
+      "NumberOfInstalledFiles": 189476,
+      "SizeOfInstalledFiles": 277381672576,
+      "TotalSize": 478981288091
+    },
+    "version": "1.0.0.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-12-19T04:46:30.0174309Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Dovahmeme",
+    "description": "Tamriel... but way dumber",
+    "author": "tpartridge89",
+    "maintainers": [
+      "github/tpartridge89"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Total Overhaul",
+      "Steam",
+      "Combat Overhaul",
+      "Memes"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/Dovahmeme%20splash.png",
+      "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Dovahmeme.wabbajack_1396f4e2-0735-4f3f-957d-3a3abd022c28",
+      "machineURL": "Dovahmeme",
+      "discordURL": "https://discord.gg/r4YnyqGBBA",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "5rI8KJ0RKLM=",
+      "Size": 990938814,
+      "NumberOfArchives": 1571,
+      "SizeOfArchives": 141588794777,
+      "NumberOfInstalledFiles": 205139,
+      "SizeOfInstalledFiles": 242854860954,
+      "TotalSize": 384443655731
+    },
+    "version": "0.69.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-12-29T21:24:00.3130598Z",
     "repositoryName": ""
   }
 ]
