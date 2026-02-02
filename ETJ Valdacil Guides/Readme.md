@@ -36,7 +36,7 @@
     </tr>
   </tbody>
 </table>
-
+[Back to Top](#Valdacil's-Guide-to-Guides)
 
 ## Gameplay Guides and Checklists by Valdacil
 
