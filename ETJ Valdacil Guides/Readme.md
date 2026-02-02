@@ -1,5 +1,10 @@
 # Valdacil's Guide to Guides
 
+## Table of Contents
+< [Back to Readme](README.md)<BR>
+< [ETJ Gameplay Guide](Gameplay%20Guide.md)
+1. [Modding Guides by Valdacil](#modding-guides-by-Valdacil)
+
 ## Modding Guides by Valdacil
 
 <table width="100%">
@@ -20,7 +25,7 @@
     </tr>
     <tr>
       <td valign="top">
-        Rule 11 Methodology Guide
+        <a href="./Rule%2011%20Methodology%20Guide.md">Rule 11 Methodology Guide</a>
       </td>
       <td valign="top">
         <a href="https://www.fgsmodlists.com/knowledgebase/rule-11-why">Rule 11</a> refers to any addition, removal or modification of mods of a modlist.  It is generally understood to void support from the modlist team since the team cannot support whatever changes might deviate from their tested platform.  However, if you are going to R11 ElderTeej (or any modlist) this guide has some considerations and recommended best practices.
