@@ -1,3 +1,4 @@
+<a id="top"></a>
 # Valdacil's Guide to Guides
 
 ## Table of Contents
@@ -36,7 +37,9 @@
     </tr>
   </tbody>
 </table>
-[Back to Top](#valdacils-guide-to-guides)
+ ^ <a href="#top">Back to Top</a>
+ <BR><BR>
+
 
 ## Gameplay Guides and Checklists by Valdacil
 
@@ -67,7 +70,9 @@
     </tr>  
   </tbody>
 </table>
-[Back to Top](#valdacils-guide-to-guides)
+ ^ <a href="#top">Back to Top</a>
+ <BR><BR>
+
 
 ## Other Guides
 
@@ -153,7 +158,9 @@
     </tr>
   </tbody>
 </table>
-[Back to Top](#valdacils-guide-to-guides)
+ ^ <a href="#top">Back to Top</a>
+ <BR><BR>
+
 
 ## Tools
 
@@ -191,4 +198,6 @@
     </tr>
   </tbody>
 </table>
-[Back to Top](#valdacils-guide-to-guides)
+ ^ <a href="#top">Back to Top</a>
+ <BR><BR>
+
