@@ -1,8 +1,8 @@
 # Valdacil's Guide to Guides
 
 ## Table of Contents
-< [Back to Readme](README.md)<BR>
-< [ETJ Gameplay Guide](Gameplay%20Guide.md)
+< [Back to Readme](/README.md)<BR>
+< [ETJ Gameplay Guide](/Gameplay%20Guide.md)
 1. [Modding Guides by Valdacil](#modding-guides-by-Valdacil)
 2. [Gameplay Guides and Checklists by Valdacil](#Gameplay-Guides-and-Checklists-by-Valdacil)
 3. [Other Guides](#Other-Guides)
