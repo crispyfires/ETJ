@@ -68,6 +68,14 @@
         There are a lot of added alchemy ingredients in ElderTeej.  This spreadsheet shows all ingredients across every mod included and their 4 effects.  You can also select an effect at the top and every ingredient which includes that effect will be highlighted.
       </td>
     </tr>  
+    <tr>
+      <td width="300" valign="top">
+        <a href="./SpellsGuide.ods?raw=true">ElderTeej Spells List</a>
+      </td>
+      <td valign="top">
+        Spreadsheet showing all spells which have an associated spell tome.  Some may only be acquired via quests, but all are listed here.
+      </td>
+    </tr>    
   </tbody>
 </table>
  ^ <a href="#top">Back to Top</a>
