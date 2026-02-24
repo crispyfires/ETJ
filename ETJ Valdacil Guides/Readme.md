@@ -76,6 +76,14 @@
         Spreadsheet showing all spells which have an associated spell tome.  Some may only be acquired via quests, but all are listed here.
       </td>
     </tr>    
+    <tr>
+      <td width="300" valign="top">
+        <a href="./Follower%20Guide.ods?raw=true">ElderTeej Follower Guide</a>
+      </td>
+      <td valign="top">
+        Spreadsheet listing all followers (Vanilla and mod added) included in Elderteej.
+      </td>
+    </tr>   
   </tbody>
 </table>
  ^ <a href="#top">Back to Top</a>
